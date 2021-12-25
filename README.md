@@ -15,7 +15,7 @@
 
 -->
 <!-- ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelqds&show_icons=true&theme=dark&hide=contribs,prs) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelqds&show_icons=true&theme=dark&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=marcelqds&show_icons=true&theme=dark&layout=compact)
 <!-- (https://github.com/marcelqds/github-readme-stats) -->
 <!----
 <a href="https://github.com/marcelqds/github-readme-stats">

@@ -1,4 +1,4 @@
-### Olá, eu sou o, Marcelo! 👋
+### 🌱 Olá, eu sou o, Marcelo! 👋
 
 <!-- - 🔭 Freelancer  
 - 🌱 Aprendendo p
@@ -12,10 +12,11 @@
 
 &show_icons=true&theme=radical
 &repo=github-readme-stats
+&layout=compact
 
 -->
-<!-- ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelqds&show_icons=true&theme=dark&hide=contribs,prs) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=marcelqds&show_icons=true&theme=dark&layout=compact)
+<! --![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelqds&show_icons=true&theme=dark&hide=contribs,prs) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=marcelqds&show_icons=true&theme=dark)
 <!-- (https://github.com/marcelqds/github-readme-stats) -->
 <!----
 <a href="https://github.com/marcelqds/github-readme-stats">

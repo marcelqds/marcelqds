@@ -15,7 +15,7 @@
 &layout=compact
 
 -->
-<! --![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelqds&show_icons=true&theme=dark&hide=contribs,prs) -->
+<!-- ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelqds&show_icons=true&theme=dark&hide=contribs,prs) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=marcelqds&show_icons=true&theme=dark)
 <!-- (https://github.com/marcelqds/github-readme-stats) -->
 <!----
